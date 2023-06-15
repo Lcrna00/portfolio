@@ -31,6 +31,9 @@ Curated list of the projects I've done from scratch or collaborated with
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/3b923bb7-625a-42d7-8bcb-faf6cf493544" width="200" height="400" />
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/e16b0cce-069d-4fa8-ae42-a57c926c1f17" width="200" height="400" />
 <div/>
+ <div>
+  <img src="https://github.com/Lcrna00/portfolio/assets/104057677/d6b8a808-cbf8-40fd-bfb3-00655d595f00" width="200" height="400" />
+ <div/>
 
 
 
