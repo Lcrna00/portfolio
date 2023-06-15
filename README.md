@@ -25,12 +25,12 @@ Curated list of the projects I've done from scratch or collaborated with
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/5853471c-7b1f-45f6-9e84-456bba9f8f25" width="200" height="400" />
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/ad87df8b-9445-4820-b8b5-6e01e1c37dd0" width="200" height="400" />
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/91378c09-ddae-4f26-8ba5-967199ba2d0b" width="200" height="400" />
-
+<div>
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/d6b8a808-cbf8-40fd-bfb3-00655d595f00" width="200" height="400" />
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/f302d337-8c9e-4f52-bdba-1df1c45cf7e" width="200" height="400" />
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/3b923bb7-625a-42d7-8bcb-faf6cf493544" width="200" height="400" />
 <img src="https://github.com/Lcrna00/portfolio/assets/104057677/e16b0cce-069d-4fa8-ae42-a57c926c1f17" width="200" height="400" />
-
+<div/>
 
 
 **Progamming Language:** Swift \
